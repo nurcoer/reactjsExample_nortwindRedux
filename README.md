@@ -1,5 +1,5 @@
 # NorthwindApp  
-React/Redux
+React/Redux/ReactHooks
 # To Run the Project  
   - git clone https://github.com/nurcoer/reactjsExample_nortwindRedux
   - /cd api    
